@@ -1,3 +1,7 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
 .App-header {
   background-color: #282c34;
   min-height:200px;
@@ -8,9 +12,19 @@
   color: white;
 }
 .Shortener {
+    display: flex;
   margin: 20px;
   padding: 20px;
   border: 1px solid #ccc;
   border-radius: 5px;
   background-color: #f9f9f9;
+}
+.custom-button {
+  background-color: #2b778d;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  align-self: center;
 }
