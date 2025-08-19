@@ -4,7 +4,6 @@ function Shortener() {
     <div className="Shortener">
       <form>
         <input type="text" placeholder="Enter URL to shorten" />
-        
       </form>
     </div>
   );
