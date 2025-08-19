@@ -8,6 +8,10 @@ function App() {
     <>
       <Header/> 
       <Shortener/>
+      <Shortener/>
+      <Shortener/>
+      <Shortener/>
+      <Shortener/>
     </>
   )
 }
